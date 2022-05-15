@@ -1,0 +1,15 @@
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\bin\Debug\net6.0\Exercicio42.exe
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\bin\Debug\net6.0\Exercicio42.deps.json
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\bin\Debug\net6.0\Exercicio42.runtimeconfig.json
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\bin\Debug\net6.0\Exercicio42.dll
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\bin\Debug\net6.0\Exercicio42.pdb
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\obj\Debug\net6.0\Exercicio42.csproj.AssemblyReference.cache
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\obj\Debug\net6.0\Exercicio42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\obj\Debug\net6.0\Exercicio42.AssemblyInfoInputs.cache
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\obj\Debug\net6.0\Exercicio42.AssemblyInfo.cs
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\obj\Debug\net6.0\Exercicio42.csproj.CoreCompileInputs.cache
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\obj\Debug\net6.0\Exercicio42.dll
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\obj\Debug\net6.0\refint\Exercicio42.dll
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\obj\Debug\net6.0\Exercicio42.pdb
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\obj\Debug\net6.0\Exercicio42.genruntimeconfig.cache
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio42\obj\Debug\net6.0\ref\Exercicio42.dll

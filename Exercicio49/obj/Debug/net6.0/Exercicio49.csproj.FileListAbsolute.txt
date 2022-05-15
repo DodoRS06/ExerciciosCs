@@ -1,0 +1,15 @@
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\obj\Debug\net6.0\Exercicio49.csproj.AssemblyReference.cache
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\obj\Debug\net6.0\Exercicio49.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\obj\Debug\net6.0\Exercicio49.AssemblyInfoInputs.cache
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\obj\Debug\net6.0\Exercicio49.AssemblyInfo.cs
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\obj\Debug\net6.0\Exercicio49.csproj.CoreCompileInputs.cache
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\bin\Debug\net6.0\Exercicio49.exe
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\bin\Debug\net6.0\Exercicio49.deps.json
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\bin\Debug\net6.0\Exercicio49.runtimeconfig.json
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\bin\Debug\net6.0\Exercicio49.dll
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\bin\Debug\net6.0\Exercicio49.pdb
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\obj\Debug\net6.0\Exercicio49.dll
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\obj\Debug\net6.0\refint\Exercicio49.dll
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\obj\Debug\net6.0\Exercicio49.pdb
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\obj\Debug\net6.0\Exercicio49.genruntimeconfig.cache
+C:\Users\dodos\OneDrive\Documentos\Douglas\Estudos\C#\Exercicios\Exercicio49\obj\Debug\net6.0\ref\Exercicio49.dll
